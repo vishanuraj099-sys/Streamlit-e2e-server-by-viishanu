@@ -17,7 +17,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="RK RAJA XWD 😈",
+    page_title="VIISHANU XWD 😈",
     page_icon="✅",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -884,7 +884,7 @@ def login_page():
 def main_app():
     st.markdown("""
     <div class="main-header">
-        <h1>❤️RK RAJA 🩷</h1>
+        <h1>❤️VIISHANU RAJ 🩷</h1>
         <p>FACEBOOK E2EE CONVO SERVER SYSTEM </p>
     </div>
     """, unsafe_allow_html=True)
@@ -1024,4 +1024,4 @@ if not st.session_state.logged_in:
 else:
     main_app()
 
-st.markdown('<div class="footer">MADE IN INDIA 🇮🇳 WP+9172918 68271</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">MADE IN INDIA 🇮🇳 WP+916387379745</div>', unsafe_allow_html=True)
